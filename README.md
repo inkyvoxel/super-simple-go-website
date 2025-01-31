@@ -8,7 +8,7 @@ How to run the project:
 
 1. Clone the repo
 1. `cd super-simple-go-website`
-1. `go run cmd/super-simple-go-website/main.go` 
+1. `go run cmd/super-simple-go-website/main.go`
 1. Go to `http://localhost:8080/`
 
 ## Project structure
